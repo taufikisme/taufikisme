@@ -1,16 +1,11 @@
 <h1 align="center">Hi 👋, I'm Taufik</h1>
 <h3 align="center">A passionate fullstack web developer from Indonesia</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=taufikisme&label=Profile%20views&color=0e75b6&style=flat" alt="taufikisme" /> </p>
-
+<hr>
 <!-- thropy -->
-<a href="https://rifqirosyidi.github.io">
     <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=taufikisme&column=7&theme=onedark"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=taufikisme&column=7&theme=juicyfresh"/>
     </p>
-</a>
 
-<p align="left"> <a href="https://twitter.com/u_have_an_error" target="blank"><img src="https://img.shields.io/twitter/follow/u_have_an_error?logo=twitter&style=for-the-badge" alt="u_have_an_error" /></a> </p>
 
 - 🌱 I’m currently learning **Reactjs, Laravel, and Django**
 
