@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack web developer from Indonesia</h3>
 <hr>
 
-<img align='right' src="https://i.pinimg.com/originals/bf/08/6d/bf086d25ddc5d4042c790f9917eb50c3.gif" height="100">
+<img align='right' src="https://i.pinimg.com/originals/bf/08/6d/bf086d25ddc5d4042c790f9917eb50c3.gif" width="300">
 
 - 🎓 I'm Computer Engineering Student at <a href="https://www.undip.ac.id" targett="_blank">Diponegoro University</a>
 
