@@ -20,7 +20,7 @@
 <h2>Stats:</h2>
 
 <!-- thropy -->
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=taufikisme&column=7&theme=juicyfresh"></p>
+<p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=taufikisme&column=7&theme=juicyfresh"></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=taufikisme&show_icons=true&theme=tokyonight" alt="taufikisme" /></p>
 
