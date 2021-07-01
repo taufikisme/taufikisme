@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack web developer from Indonesia</h3>
 <hr>
 
-- 🎓 I'm Computer Engineering Student at <a href="undip.ac.id" targett="_blank">Diponegoro University</a>
+- 🎓 I'm Computer Engineering Student at <a href="https://www.undip.ac.id" targett="_blank">Diponegoro University</a>
 
 - 🌱 I’m currently learning **Reactjs, Laravel, and Django**
 
