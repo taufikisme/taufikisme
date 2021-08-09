@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taufik</h1>
-<h3 align="center">A passionate fullstack web developer from Indonesia</h3>
+<h3 align="center">A passionate fullstack web developer from Kediri, Indonesia</h3>
 <hr>
 
 <img align='right' src="https://i.pinimg.com/originals/bf/08/6d/bf086d25ddc5d4042c790f9917eb50c3.gif" width="250">
