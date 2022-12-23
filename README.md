@@ -6,7 +6,7 @@
 
 - 🎓 I'm Computer Engineering Student at <a href="https://www.undip.ac.id" targett="_blank">Diponegoro University</a>
 
-- 🌱 I’m currently learning **Typescript, Nextjs, Laravel, and Golang**
+- 🌱 I’m currently learning **Typescript, Nextjs, Laravel, and Nestjs**
 
 - 📫 How to reach me **mohtaufikafandi@gmail.com**
 
