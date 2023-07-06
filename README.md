@@ -4,11 +4,11 @@
 
 <img align='right' src="https://i.pinimg.com/originals/bf/08/6d/bf086d25ddc5d4042c790f9917eb50c3.gif" width="250">
 
-- 🎓 I'm Computer Engineering Student at <a href="https://www.undip.ac.id" targett="_blank">Diponegoro University</a>
+- 🎓 I have a Bachelor of Engineering degree in Computer Engineering from <a href="https://linkedin.com/in/moh-taufik-afandi-5255681a6" target="_blank">Diponegoro University</a>
 
-- 🌱 I’m currently learning **Typescript, Nextjs, Laravel, and Nestjs**
+- 🌱 I’m currently learning **Typescript, Nextjs, Laravel, Nestjs, MongoDB, and Machine Learning**
 
-- 📫 How to reach me **mohtaufikafandi@gmail.com**
+- 📫 Reach me at **mohtaufikafandi@gmail.com**
 
 - ⚡ Fun fact: I turn caffeine + music into code!
 
