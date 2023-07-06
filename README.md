@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taufik</h1>
-<h3 align="center">A passionate fullstack web developer from Indonesia</h3>
+<h3 align="center">A passionate fullstack engineer from Indonesia</h3>
 <hr>
 
 - 🎓 I have a Bachelor of Engineering degree in Computer Engineering from <a href="https://linkedin.com/in/moh-taufik-afandi-5255681a6" target="_blank">Diponegoro University</a>
