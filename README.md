@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taufik</h1>
-<h3 align="center">A passionate fullstack web developer from Kediri, Indonesia</h3>
+<h3 align="center">A passionate fullstack web developer from Indonesia</h3>
 <hr>
 
 <img align='right' src="https://i.pinimg.com/originals/bf/08/6d/bf086d25ddc5d4042c790f9917eb50c3.gif" width="250">
@@ -11,6 +11,8 @@
 - 📫 How to reach me **mohtaufikafandi@gmail.com**
 
 - ⚡ Fun fact: I turn caffeine + music into code!
+
+- 🌐 <a href="https://taufikisme.vercel.app" target="blank">My personal website</a>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
