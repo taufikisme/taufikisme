@@ -3,7 +3,7 @@
 <hr>
 
 # 💫 About Me:
-🎓 I have a Bachelor of Engineering degree in Computer Engineering from Diponegoro University<br><br>🌱 I’m currently learning TypeScript, Nextjs, Laravel, Nestjs, MongoDB, and Machine Learning<br><br>📫 Reach me at mohtaufikafandi@gmail.com<br><br>⚡ Fun fact: I turn caffeine + music into code!<br><br>🌐 <a href="https://taufikisme.vercel.app" target="_blank">My personal website</a>
+🎓 I have a Bachelor of Engineering degree in Computer Engineering from Diponegoro University<br><br>🌱 I’m currently learning TypeScript, Nextjs, Laravel, Nestjs, MongoDB, and Machine Learning<br><br>📫 Reach me at mohtaufikafandi@gmail.com<br><br>⚡ Fun fact: I turn matcha + music into code!<br><br>🌐 <a href="https://taufikisme.vercel.app" target="_blank">My personal website</a>
 
 
 ## 🌐 Socials:
